@@ -1,0 +1,12 @@
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.deps.json
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.pdb
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.csproj.AssemblyReference.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.AssemblyInfoInputs.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.AssemblyInfo.cs
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\refint\Pav.TpFinal.Infraestructura.Transversal.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.pdb
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Transversal\obj\Debug\net8.0\ref\Pav.TpFinal.Infraestructura.Transversal.dll

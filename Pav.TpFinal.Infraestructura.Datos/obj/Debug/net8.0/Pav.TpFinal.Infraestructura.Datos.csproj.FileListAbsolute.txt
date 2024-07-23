@@ -1,0 +1,17 @@
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.deps.json
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.runtimeconfig.json
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.pdb
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\bin\Debug\net8.0\Pav.TpFinal.Dominio.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\bin\Debug\net8.0\Pav.TpFinal.Dominio.pdb
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.csproj.AssemblyReference.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.AssemblyInfoInputs.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.AssemblyInfo.cs
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.csproj.CoreCompileInputs.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFi.FE3270C4.Up2Date
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\refint\Pav.TpFinal.Infraestructura.Datos.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.pdb
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\Pav.TpFinal.Infraestructura.Datos.genruntimeconfig.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Infraestructura.Datos\obj\Debug\net8.0\ref\Pav.TpFinal.Infraestructura.Datos.dll

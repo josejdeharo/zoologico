@@ -1,0 +1,11 @@
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\bin\Debug\net8.0\Pav.TpFinal.Dominio.deps.json
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\bin\Debug\net8.0\Pav.TpFinal.Dominio.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\bin\Debug\net8.0\Pav.TpFinal.Dominio.pdb
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.AssemblyInfoInputs.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.AssemblyInfo.cs
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\obj\Debug\net8.0\refint\Pav.TpFinal.Dominio.dll
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.pdb
+C:\Users\josedh\Desktop\pavFinal\Pav.TpFinal\Pav.TpFinal.Dominio\obj\Debug\net8.0\ref\Pav.TpFinal.Dominio.dll
